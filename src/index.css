@@ -1,0 +1,48 @@
+/* @import-normalize;
+
+body{
+  background-color: black;
+}
+
+.clickMebtn{
+  background-color: green;
+  color: white;
+  margin: 300px 650px;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.closeBtn{
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+
+.animation-div{
+  width: 50%;
+  height: 200px;
+  background-color: antiquewhite;
+  margin: auto;
+  padding: 0 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.animationEngine{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
